@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+<channel>
+<title>The Dangercast</title>
+<link>http://dangercast.davepeck.org/</link>
+<language>en-us</language>
+<copyright>&#x2117; &amp; &#xA9; 2008-2009 Dave Peck, All Rights Reserved</copyright>
+<itunes:subtitle>Atomkraft Audio Mixes, Four Times A Year</itunes:subtitle>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:summary>Four times a year, we release a mix of new and interesting (to us) music. We run the gamut from modern classical to indie rock to stomping techno... but we always keep it fresh.</itunes:summary>
+<description>Four times a year, we release a mix of new and interesting (to us) music. We run the gamut from modern classical to indie rock to stomping techno... but we always keep it fresh.</description>
+<itunes:owner>
+<itunes:name>Dave Peck</itunes:name>
+</itunes:owner>
+<itunes:image href="http://dangercast.davepeck.org/dc-itunes-icon.jpg" />
+<itunes:category text="Music" />
+
+<item>
+<title>Mix 008 :: The Year We Made Contact</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Activate your inner monolith.</itunes:subtitle>
+<itunes:summary>Hailing from anywhere, this mix of deep-as-night ultra-minimal space techno will activate your inner monolith and see you through your next aerobraking maneuver.</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20--%20The%20Year%20We%20Made%20Contact.m4a" length="59810451" type="audio/x-m4a" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20--%20The%20Year%20We%20Made%20Contact.m4a</guid>
+<pubDate>Thu, 30 Dec 2010 19:00:00 GMT</pubDate>
+<itunes:duration>40:30</itunes:duration>
+<itunes:keywords>deep minimal space techno</itunes:keywords>
+</item>
+
+<item>
+<title>Mix 007 :: Ein Sof</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Ein Sof: The Infinite God</itunes:subtitle>
+<itunes:summary>Ein Sof is a Hebrew term that translates roughly as "The Infinite God." The music is ambient, mysterious, euphoric, and just beyond reach. A departure from the electronic contents of previous Dangercast mixes, Ein Sof captures the musical headspace I&apos;ve inhabited for the past half year.</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20--%20Ein%20Sof.m4a" length="55089404" type="audio/x-m4a" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20--%20Ein%20Sof.m4a</guid>
+<pubDate>Sat, 17 Jul 2010 19:00:00 GMT</pubDate>
+<itunes:duration>37:34</itunes:duration>
+<itunes:keywords>ambient abstract infinity</itunes:keywords>
+</item>
+
+<item>
+<title>Mix 006 :: Nu Summer</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>It&apos;s the summer of 2009, and everything old is Nu again.</itunes:subtitle>
+<itunes:summary>Summer of 2009 just came to a close, and everything old is Nu again. Disco is Nu. The 80s? Nu. The occasional crunked-out bit of rocktronica is Nu. The Nu Disco genre encompasses much, but has at its core a strong sense of revival from the past decades. Here&apos;s a breezy mix of Nu music, most of which was released in the past few months!</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20--%20Nu%20Summer.m4a" length="77699618" type="audio/x-m4a" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20--%20Nu%20Summer.m4a</guid>
+<pubDate>Wed, 23 Sep 2009 19:00:00 GMT</pubDate>
+<itunes:duration>38:37</itunes:duration>
+<itunes:keywords>disco 80s revival retro electronic party summer fun</itunes:keywords>
+</item>
+
+<item>
+<title>Mix 005 :: Edge Jazz</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Exploring innovation in modern jazz.</itunes:subtitle>
+<itunes:summary>Jazz in a funny genre. It lost its cultural cachet quite some time ago -- long enough ago for the music to move underground and evolve. But even in 2009, Jazz is still struggling; it is still looking for its way. There are those who are content to rehash the sounds of the past; there are those who seek to innovate. I'm focusing on the innovators here, but it should be said that there is _so much_ innovation that it is impossible to capture even a tiny slice of it in a short podcast such as this. Jazz musicians are pushing boundaries with new forms, new combinations of instruments, and by merging the music they know with exotic sounds from other genres: minimalist classical, traditional Indian, Klezmer, and abstract electronic all have a part to play. This mix is the "edge"; it's what is on the frontier if you take the classic bop- and Davis-era recordings as your waypoints. In a future mix, perhaps, I'll show what lies beyond that edge -- music from the modern netherworld of jazz where true chaos reigns.</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Edge%20Jazz.m4a" length="61092308" type="audio/x-m4a" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Edge%20Jazz.m4a</guid>
+<pubDate>Sun, 3 May 2009 19:00:00 GMT</pubDate>
+<itunes:duration>41:28</itunes:duration>
+<itunes:keywords>jazz eclectic avantgarde modern</itunes:keywords>
+</item>
+
+<item>
+<title>Mix 004v2 :: Kaleidoscopic</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Music you might hear at your moment of death.</itunes:subtitle>
+<itunes:summary>In my dreams, I&apos;m dying all the time / then I wake to kaleidoscopic mind. Those are the Moby lyrics that inspired my fourth mix: I wanted music that my mind might hear in its final moments. So I poked all over the map and came up with this admittedly strange grab-bag of tracks from across the musical spectrum. (As for Moby: I suspect death ain&apos;t downtempo; he didn&apos;t make the cut.)</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Kaleidoscopic%20v2.m4a" length="60220017" type="audio/x-m4a" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Kaleidoscopic%20v2.m4a</guid>
+<pubDate>Tue, 3 Feb 2009 19:00:00 GMT</pubDate>
+<itunes:duration>41:00</itunes:duration>
+<itunes:keywords>electronic ambient rock indie dnb glitch random</itunes:keywords>
+</item>
+
+<item>
+<title>Mix 003 :: Skies Are Wide</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>A fun and euphoric drum&apos;n&apos;bass mix.</itunes:subtitle>
+<itunes:summary>It&apos;s been a while since I&apos;ve checked in on drum&apos;n&apos;bass. All but dead in the US, the style is on every street corner in London. Listening to new artists and tracks, I discern a bit of a bifurcation: there&apos;s the old d&apos;n&apos;b: euphoric, uplifting, sometimes overrun by cheesy vocals. And there&apos;s a new sound emerging: dark, with brutal cutting bass lines. Being more nostalgic for the former, I cranked out this old-skool mix. Party times cut with dark interludes, ending in a pensive mood. The skies are indeed wide.</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Skies%20Are%20Wide.mp3" length="90109652" type="audio/mpeg" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Skies%20Are%20Wide.mp3</guid>
+<pubDate>Sun, 2 Nov 2008 19:00:00 GMT</pubDate>
+<itunes:duration>37:32</itunes:duration>
+<itunes:keywords>electronic dnb drum bass drumnbass euphoria dance dj</itunes:keywords>
+</item>
+
+<item>
+<title>Mix 002 :: Portable Dance Party</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>It&apos;s all for dancing...</itunes:subtitle>
+<itunes:summary>Okay, look. Sometimes the thing to do is to crank the bass. Rock the four-on-floor. Make it dirty. Make it dark. Above all, make it electrosheek.</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Portable%20Dance%20Party.mp3" length="91331616" type="audio/mpeg" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Portable%20Dance%20Party.mp3</guid>
+<pubDate>Sat, 2 Aug 2008 19:00:00 GMT</pubDate>
+<itunes:duration>38:03</itunes:duration>
+<itunes:keywords>electronic electrohouse dance dj</itunes:keywords>
+</item>  
+
+<item>
+<title>Mix 001 :: Faith Restored</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>When you need your home to sound like a euro bar.</itunes:subtitle>
+<itunes:summary>Justice closes out Coachella. I dance. My faith in the potential of electronic music to get people shakin' their booty is restored. Here's a chillaxed dance mix for when you don't quite want to rage as hard as Justice requires of you.</itunes:summary>
+<enclosure url="http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Faith%20Restored.mp3" length="85300732" type="audio/mpeg" />
+<guid>http://static.davepeck.org/dangercast/music/Danger%20Dave%20-%20Faith%20Restored.mp3</guid>
+<pubDate>Fri, 2 May 2008 19:00:00 GMT</pubDate>
+<itunes:duration>35:30</itunes:duration>
+<itunes:keywords>electronic minimal techhouse dj</itunes:keywords>
+</item>
+
+</channel>
+</rss>
